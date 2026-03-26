@@ -1,0 +1,27 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# VS Code workspace settings
+.vscode/
+
+# Plot images (optional: remove if you want to track them)
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
